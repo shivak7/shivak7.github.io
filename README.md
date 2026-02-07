@@ -15,4 +15,6 @@ Welcome to my github landing page. You can check out the following projects that
 <br>
 <br>
 
-[//]: View my latest [resume](https://github.com/shivak7/shivak7.github.io/blob/main/Resume_shiva.pdf).
+<!--
+View my latest [resume](https://github.com/shivak7/shivak7.github.io/blob/main/Resume_shiva.pdf).
+-->
