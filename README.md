@@ -8,8 +8,11 @@ Welcome to my github landing page. You can check out the following projects that
 
 [MotoMetrics: MEP and Recruitment curve analysis](https://github.com/shivak7/Motometrics)
 
+[Museq & Muqompose: Musical sequences synthesizer and composer application](https://github.com/shivak7/Museq)
+
 <br>
 <br>
 <br>
 <br>
-View my latest [resume](https://github.com/shivak7/shivak7.github.io/blob/main/Resume_shiva.pdf).
+
+[//]: View my latest [resume](https://github.com/shivak7/shivak7.github.io/blob/main/Resume_shiva.pdf).
